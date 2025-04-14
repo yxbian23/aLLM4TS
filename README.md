@@ -17,7 +17,7 @@ This repository contains the implementation of the ICML2024 paper "Multi-Patch P
   <a href='https://github.com/yxbian23/aLLM4TS'>
   <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white'></a> 
   <a href='https://github.com/yxbian23/aLLM4TS'>
-  <img src='https://img.shields.io/github/last-commit/TreastBean/aLLM4TS?color=1d3557'></a> 
+  <img src='https://img.shields.io/github/last-commit/yxbian23/aLLM4TS?color=1d3557'></a> 
 </p>
 
 
